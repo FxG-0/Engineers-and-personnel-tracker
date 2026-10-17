@@ -1,0 +1,6 @@
+{
+  "name": "Personnel Tracker",
+  "description": "Personnel and Engineer Tracking Portal with Firebase Authentication and Firestore database management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
